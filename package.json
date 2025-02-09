@@ -2,7 +2,7 @@
   "name": "v25",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cindyyueh.github.io/v25/server/app",
+  "homepage": "https://cindyyueh.github.io/v25",
   "scripts": {
     "dev": "next dev --turbopack",
     "predeploy": "npm run build",
